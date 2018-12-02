@@ -1,2 +1,2 @@
-# Discord-Bots
-Personal Bots
+# Discord Bots
+My personal discord bots.
